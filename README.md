@@ -3,8 +3,7 @@
 Este repositorio contiene el proyecto final para CoderHouse.
 
 ## ¿Qué encontrarás aquí?
-- Código fuente
-- Documentación
-- Recursos relacionados
+- La entrega numero 1 del curso de Data Sciene de CoderHouse 
+- El dataset utilizado para La entrega numero 1 del curso de Data Sciene de CoderHouse 
 
-¡Bienvenido!
+¡Bienvenidos Arturo y Ander!
